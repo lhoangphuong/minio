@@ -1,4 +1,4 @@
-#Implementing distributed Minio (Open source object storage - similar to S3)
+# Implementing distributed Minio (Open source object storage - similar to S3)
 
 ## Getting Stated
 1. Install docker & docker-compose
