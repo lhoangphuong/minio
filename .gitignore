@@ -1,2 +1,11 @@
+# Secret data
 .docker/
 .env
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
